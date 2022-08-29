@@ -1,0 +1,15 @@
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\bin\Debug\net6.0\ModifiedObserverE.exe
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\bin\Debug\net6.0\ModifiedObserverE.deps.json
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\bin\Debug\net6.0\ModifiedObserverE.runtimeconfig.json
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\bin\Debug\net6.0\ModifiedObserverE.dll
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\bin\Debug\net6.0\ref\ModifiedObserverE.dll
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\bin\Debug\net6.0\ModifiedObserverE.pdb
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.csproj.AssemblyReference.cache
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.AssemblyInfoInputs.cache
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.AssemblyInfo.cs
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.csproj.CoreCompileInputs.cache
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.dll
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ref\ModifiedObserverE.dll
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.pdb
+C:\Users\2064588\source\repos\ModifiedObserverE\ModifiedObserverE\obj\Debug\net6.0\ModifiedObserverE.genruntimeconfig.cache
